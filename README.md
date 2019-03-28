@@ -1,0 +1,1 @@
+# scss-scc-grid-template
